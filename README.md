@@ -6,3 +6,4 @@ Youtube: Youtube poulty sounds with noise: https://www.youtube.com/watch?v=70IqK
 ____________________
 first pip install librosa
 pip install ffmpeg to enable audio read.
+import noisereduce as nr to reduce noise from the audio file.
