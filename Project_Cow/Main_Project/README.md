@@ -10,6 +10,8 @@ Raw wave files between 3 to 10 seconds of beef cows
 
 ## Livestock_Preprocess/RAW_Sick_Cow
 Raw wave files between 3 to 10 seconds of beef cows
+These are cows giving distress calls.
+
 
 
 
