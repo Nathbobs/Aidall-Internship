@@ -1,22 +1,27 @@
-## Livestock_Preprocess/RAW_Beef_Cow_육우
-Raw wav files between 3 to 10 seconds of beef cows
-
 ## Livestock_Preprocess/RAW_Cow_Unclassified
 Raw wav files between 3 to 10 seconds of beef cows
 wav files "moo_1 to moo_566 were all splitted videos from youtube.
 
-## Livestock_Preprocess/RAW_Dairy_Cow_젖소
-Raw wav files between 3 to 10 seconds of beef cows
 
 ## Livestock_Preprocess/RAW_Sick_Cow
 Raw wav files between 3 to 10 seconds of beef cows
 These are cows giving distress calls.
 
-## Livestock_Preprocess/Denoised_Sick_Cow/
+## Livestock_Preprocess/RAW_Sick_Cow/RAW_Cow+Music
+During Preprocessing of the unclassified cows, i moved the wav files that contains cow moos mixed with background music into this folder.
 
 
-## Livestock_Preprocess/RDenoised_Sick_Cow/noiseReduce_Denoised_Sick_Cow
-These are wav files of sick cows cleaned using the noise Reduce algorithm
+## Livestock_Preprocess/RAW_Sick_Cow/Noise_Unclassified
+During Preprocessing of the unclassified cows, i moved the wav files that only contains noise such as people talking,music and other animal sounds into this folder
+
+
+
+## Livestock_Preprocess/Denoised_Sick_Cow/noise2noise_Denoised_Sick_Cow_1
+wav files of denoised sick cows using noise2noise algorithm (1st iteration)
+
+
+## Livestock_Preprocess/Denoised_Sick_Cow/noiseReduce_Denoised_Sick_Cow
+These are wav files of denoised sick cows using the noise Reduce algorithm
 
 
 
