@@ -11,7 +11,7 @@ These are cows giving distress calls.
 During Preprocessing of the unclassified cows, i moved the wav files that contains cow moos mixed with background music into this folder.
 
 
-## Livestock_Preprocess/RAW_Sick_Cow/Noise_Unclassified
+## Livestock_Preprocess/RAW_Sick_Cow/Noise
 During Preprocessing of the unclassified cows, i moved the wav files that only contains noise such as people talking,music and other animal sounds into this folder
 
 
